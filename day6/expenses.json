@@ -1,0 +1,14 @@
+[
+    {
+        "category": "tea",
+        "amount": 12.0
+    },
+    {
+        "category": "meal",
+        "amount": 60.0
+    },
+    {
+        "category": "tdr",
+        "amount": 30.0
+    }
+]
